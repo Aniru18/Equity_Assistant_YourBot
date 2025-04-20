@@ -52,11 +52,11 @@ Welcome to YourBot, a powerful AI-powered equity research assistant. This Stream
     GOOGLE_API_KEY=your_google_generative_ai_api_key
 ## Environment setup:
 
-		conda create -n env_langchain1 python=3.10  
-		conda activate env_langchain1
-		python -m pip install --upgrade pip
-		Install packages:
-		pip install -r requirements.txt
+     conda create -n env_langchain1 python=3.10  
+     conda activate env_langchain1
+     python -m pip install --upgrade pip
+     Install packages:
+     pip install -r requirements.txt
 
 
 ---
